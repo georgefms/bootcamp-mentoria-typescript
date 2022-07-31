@@ -16,7 +16,6 @@ const maria = {
 
 // Para resolver isso vamos usar a feature Enum do TypeScript para criar o enum Profissao
 enum Profissao {
-    Professor,
     Engenheiro,
     Pintor,
     Porteiro
